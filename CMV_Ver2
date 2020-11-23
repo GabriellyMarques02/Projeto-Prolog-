@@ -28,7 +28,6 @@ falas('Pré-diagnostico de Displasia Coxofemoral'):-ddisplasiacoxofemoral,!.
 falas('Pré-diagnostico de Doença do Carrapato'):-ddoencadocarrapato,!.
 falas('Pré-diagnostico de Insuficiência Renal'):-dinsuficienciarenal,!.
 falas('Pré-diagnostico de Leishmaniose(Calazar)'):-dleish,!.
-falas('Pré-diagnostico de Rinotraqueite'):-drinotraqueite,!.
 falas('
 DADOS INSUFICIENTES
 CONSULTE A MÉDICA
